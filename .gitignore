@@ -36,4 +36,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 
+# sanity directory 
 mediumapp/
+
+# env file
+.env.local
