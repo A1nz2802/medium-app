@@ -33,11 +33,11 @@ yarn-error.log*
 # vercel
 .vercel
 
+# Sanity studio
+mediumapp/
+
 # typescript
 *.tsbuildinfo
-
-# sanity directory 
-mediumapp/
 
 # env file
 .env.local
