@@ -34,7 +34,7 @@ yarn-error.log*
 .vercel
 
 # Sanity node modules
-mediumapp/node_modules/
+mediumapp/node_modules
 
 # typescript
 *.tsbuildinfo
